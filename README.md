@@ -30,6 +30,6 @@ Because our raw video files are large (+25MB), we have archived all our fieldwor
 ---
 
 ## 👥 Authors & Acknowledgments
-* **Rahul Khadkathoki** — Co-Researcher & Author.
-* **Rojina Paudel** — Co-Researcher & Author.
+* **Rahul Khadkathoki** Co-Researcher & Author.
+* **Rojina Paudel** Co-Researcher & Author.
 * *Sincere gratitude to Mr. Hari Bahadur Gurung (Caretaker of Jitgadhi Fort), Mr. Bharat Shakya, Mr. Ishowrlal Joshi, Mr. Manish Shrestha, Mr. Birendra Mani Tuladhar, and Mr. Hajir Rahamad Khan Miya for sharing their invaluable generational knowledge.*
