@@ -18,7 +18,7 @@ A historical and socio-cultural study of Pari Butwal, the origin of modern Butwa
 ## 🎥 Multimedia & Fieldwork Gallery
 
 ### Main Project Video / Documentary
-[![Pari Butwal Documentary Thumbnail](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[![Pari Butwal Documentary Thumbnail](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)]([YOUR_YOUTUBE_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=sYA5QT7nWPU))
 *Click the image above to watch the documentary video on YouTube.*
 
 ### Fieldwork Videos & Oral Histories
